@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "646413416441",
+    "firebase_url": "https://doesoh-1c548.firebaseio.com",
+    "project_id": "doesoh-1c548",
+    "storage_bucket": "doesoh-1c548.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646413416441:android:d0b1639092131952",
+        "android_client_info": {
+          "package_name": "com.doesoh.gps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646413416441-b09m4copfjcap1tn41k1dqfn4irsn4av.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGs26l89lqjSt0hbEckuISK3nn94vepN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646413416441-b09m4copfjcap1tn41k1dqfn4irsn4av.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "646413416441-rfecmi1ue2v2ro1o3kedhphj7qjmdfts.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zaykwet.gps"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646413416441:android:3cae591cc89aa25a6bef28",
+        "android_client_info": {
+          "package_name": "seeker.doesoh.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646413416441-b09m4copfjcap1tn41k1dqfn4irsn4av.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGs26l89lqjSt0hbEckuISK3nn94vepN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646413416441-b09m4copfjcap1tn41k1dqfn4irsn4av.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "646413416441-rfecmi1ue2v2ro1o3kedhphj7qjmdfts.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zaykwet.gps"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
